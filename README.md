@@ -1,24 +1,24 @@
-    # prueba
+# prueba
 
-    ## prueba2
+## prueba2
 
-    1. item
+1. item
 
-    -subitem1
+-subitem1
  
-    2. item2
+2. item2
 
-    3. lista de chequeo
+3. lista de chequeo
     - [ ] no cumplido
     - [x] cumplido
  
-    - (imagenes)
+- (imagenes)
  
-    ![imagenmario](http://supermario3dworld.nintendo.com/_ui/img/views/power-ups/char-dobble-mario.png)
+![imagenmario](http://supermario3dworld.nintendo.com/_ui/img/views/power-ups/char-dobble-mario.png)
  
-    -(insertarlink)
+-(insertarlink)
  
-    ###[link URL](http://www.facebook.com)
+###[link URL](http://www.facebook.com)
  
  
  
